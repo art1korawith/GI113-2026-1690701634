@@ -31,8 +31,8 @@ namespace Lab02
             Console.WriteLine();
             
             int hpPercent = currentHp * 100 / maxHp; //คำนวณเปอร์เซ็นต์ HP
-            Console.WriteLine($"HP Percent: {hpPercent}%");\
-            Console/WriteLine();
+            Console.WriteLine($"HP Percent: {hpPercent}%");
+            Console.WriteLine();
 
             Console.WriteLine($"Kirin takes 60 damage!");
             currentHp = currentHp - 60; //ลด HP ของบอสลง 60
