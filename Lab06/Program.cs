@@ -1,5 +1,5 @@
-﻿git config --global user.email "Kaorawith.khla@bu.ac.th"
-git config --global user.name "Kaorawith Khlaharn"
+﻿//git config --global user.email "Kaorawith.khla@bu.ac.th"
+//git config --global user.name "Kaorawith Khlaharn"
 namespace Lab06
 {
     internal class Program
